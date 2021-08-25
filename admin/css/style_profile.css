@@ -1,0 +1,27 @@
+#quantite {
+	display: none;
+}
+	.quantite-clic {
+		display: block !important;
+	}
+	#quantite1 {
+	display: none;
+}
+	.quantite1-clic {
+		display: block !important;
+	}
+	#quantite2 {
+	display: none;
+}
+	.quantite2-clic {
+		display: block !important;
+
+	}
+	#quantite3 {
+	display: none;
+}
+	.quantite3-clic {
+		display: block !important;
+
+	}
+	
